@@ -469,11 +469,6 @@ button {
   opacity: 0.8;
 }
 
-.footer__menu-link_active {
-  text-decoration: none;
-  font-weight: 500;
-}
-
 .footer__social-list {
   display: flex;
   justify-self: end;
@@ -497,8 +492,4 @@ button {
   width: 48px;
   height: 48px;
   transition: transform 0.3s;
-}
-
-.footer__social-icon:hover {
-  transform: scale(1.1);
 }
