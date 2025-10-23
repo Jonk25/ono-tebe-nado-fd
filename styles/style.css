@@ -240,20 +240,14 @@
 }
 
 .lots__look-more-link {
-  margin: 0 0 0 39px;
+  margin: 34px 0 0 39px;
   font-size: 20px;
   text-decoration: underline;
 }
 
-.card-link {
-  max-height: 100%;
-  text-decoration: inherit;
-  color: inherit;
-}
-
 .lots__card-list-item {
   width: 334px;
-  height: 596px;
+  min-height: 596px;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
